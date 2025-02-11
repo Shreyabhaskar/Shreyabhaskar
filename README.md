@@ -1,41 +1,16 @@
-<!-- Header with cute text -->
-<h1 align="center">🌸✨ Welcome to My Cozy GitHub Corner! ✨🌸</h1>
+<h1 align="center">👩‍💻 Welcome to My Dev Space 👾</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/YNyS0tdMDrIhi/giphy.gif" width="250px">
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/PjbXzwn5Rsq52/giphy.gif" width="300px">
+</p>
 
----
+<p align="center">
+  💻 **Shreya Bhaskar** | **Aspiring Software Engineer**  
+  🚀 **Java Full-Stack | Data Analytics | Cloud**  
+  🖥️ **Loves:** Coding, Tech, and Building Cool Stuff  
+</p>
 
-## 🩷 **About Me**  
-🌼 **Name:** Shreya Bhaskar  
-💻 **Aspiring:** Software Engineer & Data Enthusiast  
-🎀 **Learning:** Java Full-Stack & Data Analytics  
-📖 **Loves:** Coding, Cute Aesthetic Vibes, & Learning New Things  
-☕ **Current Status:** Debugging Life with Coffee & Code  
-
----
-
-## 🎀 **Tech Stack**  
-🌟 **Languages:** Java, Python, SQL  
-🌟 **Tools:** Power BI, Git, VS Code  
-🌟 **Currently Learning:** Cloud & Machine Learning  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26FPGFjd6baRqa0lI/giphy.gif" width="250px">
-</div>
-
----
-
-## 💌 **Let's Connect!**  
-🎀 [**LinkedIn**](https://www.linkedin.com/in/shreya-bhaskar-410264229/)  
-💌 [**Email Me!**](mailto:shreyabhaskar1991@gmail.com)  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEduQAsYcJKQH2XsI/giphy.gif" width="200px">
-</div>
-
----
-
-🌸 **Thank you for visiting my profile!** 🌸  
-⭐ **Feel free to star this repo if you like my work!** ⭐
+```diff
+💡 Tech Stack: Java, Python, SQL, Power BI
+🔧 Tools: Git, VS Code, Linux
+🚀 Currently Learning: Cloud & Data Science
